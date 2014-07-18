@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="com.thalesvalentim.phonegap.plugin.whereAmI"
@@ -9,7 +8,8 @@
     <description>
         Framework code that allows the development and operation of an Android Background Service.
     </description>
-
+    <author>red_folder</author>
+    <keywords>backgroundService, bg, background, service</keywords>
     <license>Apache 2.0</license>
 
     <engines>
