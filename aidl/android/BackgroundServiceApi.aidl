@@ -1,6 +1,6 @@
-package com.red_folder.phonegap.plugin.backgroundservice;   
+package com.thalesvalentim.phonegap.plugin.whereAmI;   
 
-import com.red_folder.phonegap.plugin.backgroundservice.BackgroundServiceListener;
+import com.thalesvalentim.phonegap.plugin.whereAmI.BackgroundServiceListener;
 
 interface BackgroundServiceApi {  
 	String getLatestResult();     

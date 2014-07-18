@@ -1,4 +1,4 @@
-package com.red_folder.phonegap.plugin.backgroundservice;
+package com.thalesvalentim.phonegap.plugin.whereAmI;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
